@@ -8,5 +8,9 @@ If don't want PORT number just run the below command it will run default port nu
 
 npx serve --ssl-cert SSLFOLDERNAME/SSL.crt --ssl-key SSLFOLDERNAME/SSL.key -s build
 
+create .env file add below line, if have any issues in above commands:-
+
+  HTTPS=true
+
 
 
